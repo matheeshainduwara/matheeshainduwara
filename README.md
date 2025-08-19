@@ -3,9 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Hi+there!+👋;I+love+coding+💻;Open-source+enthusiast+🚀)](https://git.io/typing-svg)
 
 
-## 💡About me:
+# 💡About Me:
 🎓 Undergraduate in Computing and Information Systems<br>💻 Passionate about coding and Web Development<br>🚀 Interested in open-source and real-world software solutions<br>📂 Sharing my projects, experiments, and ideas here on GitHub
 
+![Profile Views](https://komarev.com/ghpvc/?username=matheeshainduwara&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
@@ -29,7 +30,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=matheeshainduwara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/matheeshainduwara0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheeshainduwara) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:matheesha000@gmail.com) 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
