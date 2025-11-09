@@ -10,7 +10,7 @@
 
 🎓 I’m currently an undergraduate in **Computing and Information Systems**
 
-👨‍💻 All of my projects are available at [https://matheesha.vercel.app/](https://matheesha.vercel.app/)
+👨‍💻 All of my projects are available at [My Portfollio](https://matheesha.vercel.app/)
 
 📫 How to reach me **matheesha000@gmail.com**
 <br> 
