@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Matheesha Induwara</h1>
 <h3 align="center"> CIS Undergraduate | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=matheeshainduwara&label=Profile%20views&color=0CAB00&style=flat" alt="matheeshainduwara" /> </p>
-<table align="left">
-<tr border="none">
-<td width="50%" align="left">
+
   
 - 💻A passionate coder and web developer from Sri Lanka
 
@@ -13,7 +11,6 @@
 - 👨‍💻 All of my projects are available at [LinkedIn](https://linkedin.com/in/matheeshainduwara/)
 
 - 📫 How to reach me **matheesha000@gmail.com**
-<br> 
 
 ---
 
@@ -23,21 +20,21 @@
 ---
 
 <h3 align="left">My Statistics</h3>
-<p align="left">
-<table align="left">
-<tr border="none">
-<td width="50%" align="center">
+<p align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=matheeshainduwara&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshainduwara&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=matheeshainduwara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  </td>
-</tr>
-</table>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=matheeshainduwara&theme=dark&show_icons=true&count_private=true" />
+
+<br>
+
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshainduwara&theme=dark&hide_border=false" /> 
+
+<br>
+
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=matheeshainduwara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+
+</p>
 
 ---
 
