@@ -1,45 +1,49 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Matheesha Induwara</h1>
-<h3 align="center"> CIS Undergraduate | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matheeshainduwara&label=Profile%20views&color=0CAB00&style=flat" alt="matheeshainduwara" /> </p>
+<h1 align="center">👋Hi , I'm Matheesha Induwara</h1>
 
-  
-- 💻A passionate coder and web developer from Sri Lanka
-
-- 🎓 I’m currently an undergraduate in **Computing and Information Systems**
-
-- 👨‍💻 All of my projects are available at [LinkedIn](https://linkedin.com/in/matheeshainduwara/)
-
-- 📫 How to reach me **matheesha000@gmail.com**
-
----
-
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Figma-Light.svg" alt="figma" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> </p>
-
----
-
-<h3 align="center">My Statistics</h3>
-<div align="center">
-
-  <!-- First Row -->
-  <img width="422" style="margin:5px;" src="https://github-readme-stats.vercel.app/api?username=matheeshainduwara&theme=dark&show_icons=true&count_private=true&hide_border=false&border_radius=10" />
-  
-  <img width="450" style="margin:5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=matheeshainduwara&theme=dark&hide_border=false&border_radius=10" />
-
-  <br>
-
-  <!-- Second Row -->
-  <img width="400" style="margin:5px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshainduwara&theme=dark&layout=compact&hide_border=false&border_radius=10" />
-
-</div>
-
----
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/matheeshainduwara/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="matheeshainduwara/" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/matheesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="matheesha" height="50" width="50" /></a>
-<a href="https://fb.com/matheeshainduwara0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matheeshainduwara0" height="50" width="50" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=blue&center=true&vCenter=true&width=700&lines=CIS+Undergraduate;Web+Developer;Creative+Coder;Tech+Article+Writer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matheeshainduwara&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+
+## ⚙️ Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,nextjs,python,java,c,typescript,mysql,git,github,figma" />
+</p>
+
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheeshainduwara&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=matheeshainduwara&theme=synthwave&hide_border=true&background=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshainduwara&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+<a href="https://linkedin.com/in/matheeshainduwara">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+  <a href="https://www.instagram.com/induwara_rm">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
 </p>
