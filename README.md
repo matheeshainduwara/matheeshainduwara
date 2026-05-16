@@ -1,50 +1,111 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">👋Hi , I'm Matheesha Induwara</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=blue&center=true&vCenter=true&width=700&lines=CIS+Undergraduate;Web+Developer;Creative+Coder;Tech+Article+Writer" />
-</p>
+<!-- ── ANIMATED HEADER ── -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I'm%20Matheesha👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20·%20CIS%20Undergraduate&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheeshainduwara&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
-</p>
+<!-- ── TYPING ANIMATION ── -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+matter+✦;Open+source+contributor+🌱;Always+learning%2C+always+shipping+🚀;Coffee+%2B+Code+%3D+Magic+☕)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ── PROFILE VIEWS + FOLLOWERS ── -->
+![Profile Views](https://komarev.com/ghpvc/?username=matheeshainduwara&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/matheeshainduwara?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/matheeshainduwara?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=TOTAL+STARS)
+
+</div>
 
 ---
 
+## 🧠 About Me
 
-## ⚙️ Languages and Tools
+```typescript
+const me = {
+  name:       "Matheesha Induwara",
+  role:       ["Web Developer", "Tech Artical Writer"],
+  location:   "Sri Lanka",
+  focus:      ["Web Apps", "Open Source"],
+  currently:  "Computing and Information Systems Undergraduate 🎓",
+  openTo:     ["Collaborations", "Freelance", "Interesting Problems"],
+  funFact:    "I debug in the shower 🚿",
+};
+```
 
-<p align="center">
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,nextjs,firebase" />
   <img src="https://skillicons.dev/icons?i=python,java,c,typescript,mysql,git,github,figma" />
 </p>
 
+</div>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheeshainduwara&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheeshainduwara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheeshainduwara&theme=synthwave&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=matheeshainduwara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshainduwara&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshainduwara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
 </p>
+
 
 ---
 
-## 🌐 Connect
+## 📈 Contribution Graph
 
-<p align="center">
-<a href="https://linkedin.com/in/matheeshainduwara">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-  <a href="https://www.instagram.com/induwara_rm">
-  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-</a>
-</p>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheeshainduwara&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- This section is auto-updated by GitHub Actions — see .github/workflows/update-readme.yml -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## ⚡ This Week I Worked On
+<!-- WAKATIME-STATS:START -->
+<!-- Auto-updated by GitHub Actions if you have WakaTime connected -->
+<!-- WAKATIME-STATS:END -->
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/matheeshainduwara/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://matheesha.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:matheesha000@gmail.com)
+
+</div>
+
+---
+
+<!-- ── ANIMATED FOOTER ── -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+*⭐ If you find my work useful, consider starring some repos — it keeps me going!*
+
+<!-- AUTO-UPDATED TIMESTAMP — see .github/workflows/update-readme.yml -->
+![Last Updated](https://img.shields.io/badge/Last%20Updated-AUTO_DATE-7c3aed?style=flat-square&labelColor=0d1117)
+
+</div>
