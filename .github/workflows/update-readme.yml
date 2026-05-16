@@ -26,7 +26,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
          
-          feed_list: "https://medium.com/@matheeshainduwara"
+          feed_list: "https://medium.com/feed/@matheeshainduwara"
           max_post_count: 5
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
