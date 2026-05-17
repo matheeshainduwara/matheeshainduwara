@@ -30,8 +30,8 @@ jobs:
           max_post_count: 5
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
-          date_format: "MMM DD, YYYY"
-          template: "- [$title]($url) — *$date*"
+          date_format: "yyyy-MM-dd"
+          template: "- 📝 [$title]($url) — `$date`"
 
   # ── JOB 2: Update WakaTime coding stats ────────────────────────
   update-wakatime:
