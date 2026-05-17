@@ -9,10 +9,9 @@
 <br/>
 
 <!-- ── PROFILE VIEWS + FOLLOWERS ── -->
-![GitHub followers](https://img.shields.io/github/followers/matheeshainduwara?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
-![Profile Views](https://komarev.com/ghpvc/?username=matheeshainduwara&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS)
-![GitHub User's stars](https://img.shields.io/github/stars/matheeshainduwara?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=TOTAL+STARS)
-
+![GitHub followers](https://img.shields.io/github/followers/matheeshainduwara?style=flat&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=matheeshainduwara&style=flat&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS)
+![GitHub User's stars](https://img.shields.io/github/stars/matheeshainduwara?style=flat&color=7c3aed&labelColor=0d1117&label=TOTAL+STARS)
 </div>
 
 ---
@@ -21,13 +20,12 @@
 
 ```typescript
 const me = {
-  name:       "Matheesha Induwara",
-  role:       ["Web Developer", "Tech Artical Writer"],
-  location:   "Sri Lanka",
-  focus:      ["Web Apps", "Open Source"],
-  currently:  "Computing and Information Systems Undergraduate 🎓",
-  openTo:     ["Collaborations", "Freelance", "Interesting Problems"],
-  funFact:    "I debug in the shower 🚿",
+  👤name:     "Matheesha Induwara",
+  💼role:     ["Web Dev", "Tech Writer"],
+  📍location: "Sri Lanka",
+  🎓study:    "CIS Undergraduate",
+  🤝openTo:   ["Collabs", "Freelance"],
+  ⚡funFact:  "I debug in the shower",
 };
 ```
 
@@ -88,9 +86,17 @@ const me = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/matheeshainduwara/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://matheesha.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:matheesha000@gmail.com)
+<a href="https://www.linkedin.com/in/matheeshainduwara/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://matheesha.vercel.app/">
+  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:matheesha000@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
+</a>
 
 </div>
 
