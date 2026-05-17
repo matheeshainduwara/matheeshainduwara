@@ -9,8 +9,8 @@
 <br/>
 
 <!-- ── PROFILE VIEWS + FOLLOWERS ── -->
-![Profile Views](https://komarev.com/ghpvc/?username=matheeshainduwara&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/matheeshainduwara?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=matheeshainduwara&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS)
 ![GitHub User's stars](https://img.shields.io/github/stars/matheeshainduwara?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=TOTAL+STARS)
 
 </div>
