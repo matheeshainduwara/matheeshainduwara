@@ -73,7 +73,7 @@ const me = {
 ---
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- [Agentic AI Explained: How It Works, Features, Benefits, and Examples.](https://medium.com/@matheeshainduwara/agentic-ai-explained-how-it-works-features-benefits-and-examples-b756080c5966?source=rss-74eda99b3973------2) — *2929 DD, YYYY*- [The Future of Programming: Why Developers Must Learn Multiple Languages](https://medium.com/@matheeshainduwara/the-future-of-programming-why-developers-must-learn-multiple-languages-bd59f9aa8361?source=rss-74eda99b3973------2) — *066 DD, YYYY*- [Hybrid Intelligence: The Future World Where Humans and AI Think Together.](https://medium.com/@matheeshainduwara/hybrid-intelligence-the-future-world-where-humans-and-ai-think-together-4111da765d35?source=rss-74eda99b3973------2) — *2121 DD, YYYY*<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📝 [Agentic AI Explained: How It Works, Features, Benefits, and Examples.](https://medium.com/@matheeshainduwara/agentic-ai-explained-how-it-works-features-benefits-and-examples-b756080c5966?source=rss-74eda99b3973------2) — `2026-29-10`- 📝 [The Future of Programming: Why Developers Must Learn Multiple Languages](https://medium.com/@matheeshainduwara/the-future-of-programming-why-developers-must-learn-multiple-languages-bd59f9aa8361?source=rss-74eda99b3973------2) — `2026-06-20`- 📝 [Hybrid Intelligence: The Future World Where Humans and AI Think Together.](https://medium.com/@matheeshainduwara/hybrid-intelligence-the-future-world-where-humans-and-ai-think-together-4111da765d35?source=rss-74eda99b3973------2) — `2025-21-19`<!-- BLOG-POST-LIST:END -->
 
 ---
 
