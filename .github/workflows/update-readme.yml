@@ -24,14 +24,14 @@ jobs:
 
       - name: Pull latest blog posts (Dev.to / Hashnode / any RSS)
         uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-         
+       with:
           feed_list: "https://medium.com/feed/@matheeshainduwara"
-          max_post_count: 5
+          max_post_count: 3
           readme_path: "./README.md"
           comment_tag_name: "BLOG-POST-LIST"
           date_format: "yyyy-MM-dd"
-          template: "- 📝 [$title]($url) — `$date`"
+          template: "- 📝 **[$title]($url)**  `$date`"
+          filter_comments: "medium"
 
   # ── JOB 2: Update WakaTime coding stats ────────────────────────
   update-wakatime:
