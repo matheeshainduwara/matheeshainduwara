@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I'm%20Matheesha👋&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20·%20CIS%20Undergraduate&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- ── TYPING ANIMATION ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+matter+✦;Open+source+contributor+🌱;Always+learning%2C+always+shipping+🚀;Coffee+%2B+Code+%3D+Magic+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computing+and+Information+Systems+🎓;Building+things+that+matter+💻;Open+source+contributor+🌱;Always+learning%2C+always+shipping+🚀;Coffee+%2B+Code+%3D+Magic+☕)](https://git.io/typing-svg)
 
 <br/>
 
@@ -71,7 +71,8 @@ const me = {
 ---
 
 ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- 📝 [Agentic AI Explained: How It Works, Features, Benefits, and Examples.](https://medium.com/@matheeshainduwara/agentic-ai-explained-how-it-works-features-benefits-and-examples-b756080c5966?source=rss-74eda99b3973------2) — `2026-29-10`- 📝 [The Future of Programming: Why Developers Must Learn Multiple Languages](https://medium.com/@matheeshainduwara/the-future-of-programming-why-developers-must-learn-multiple-languages-bd59f9aa8361?source=rss-74eda99b3973------2) — `2026-06-20`- 📝 [Hybrid Intelligence: The Future World Where Humans and AI Think Together.](https://medium.com/@matheeshainduwara/hybrid-intelligence-the-future-world-where-humans-and-ai-think-together-4111da765d35?source=rss-74eda99b3973------2) — `2025-21-19`<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -105,11 +106,11 @@ const me = {
 <!-- ── ANIMATED FOOTER ── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
 *⭐ If you find my work useful, consider starring some repos — it keeps me going!*
 
 <!-- AUTO-UPDATED TIMESTAMP — see .github/workflows/update-readme.yml -->
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2019,%202026-7c3aed?style=flat-square&labelColor=0d1117)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
