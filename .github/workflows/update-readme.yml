@@ -40,9 +40,7 @@ jobs:
           for item in items:
               title = item.find("title").text.strip().rstrip(".")
               raw_url = item.find("link").text.strip()
-              # Clean Medium tracking params
               clean_url = raw_url.split("?source=")[0]
-              # Parse and reformat date
               pub_date = item.find("pubDate").text.strip()
               try:
                   dt = datetime.strptime(pub_date, "%a, %d %b %Y %H:%M:%S %Z")
@@ -53,7 +51,7 @@ jobs:
 
           blog_content = "\n".join(lines)
 
-          # Update README
+          # Update README blog section
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
@@ -64,13 +62,19 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(new_readme)
 
-          print("✅ README updated successfully!")
+          print("✅ Blog posts updated!")
           print(blog_content)
           EOF
+
+      - name: Update timestamp badge
+        run: |
+          DATE=$(date +'%B %d, %Y' | sed 's/ /%20/g')
+          sed -i "s|Last%20Updated-[^-]*-|Last%20Updated-${DATE}-|g" README.md
+          echo "✅ Timestamp updated!"
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(readme): update blog posts [skip ci]"
+          commit_message: "chore(readme): update blog posts + timestamp [skip ci]"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           file_pattern: README.md
