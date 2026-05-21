@@ -79,13 +79,6 @@ const me = {
 
 ---
 
-## ⚡ This Week I Coded
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
