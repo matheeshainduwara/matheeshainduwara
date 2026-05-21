@@ -79,10 +79,10 @@ const me = {
 
 ---
 
-## ⚡ This Week I Worked On
-<!-- WAKATIME-STATS:START -->
-<!-- Auto-updated by GitHub Actions if you have WakaTime connected -->
-<!-- WAKATIME-STATS:END -->
+## ⚡ This Week I Coded
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
