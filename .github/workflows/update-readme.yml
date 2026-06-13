@@ -2,7 +2,7 @@ name: 🔄 Auto-Update Profile README
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 * * * *"   # every hour (for greeting updates)
   push:
     branches:
       - main
@@ -16,6 +16,42 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Update header greeting based on time
+        run: |
+          python3 << 'EOF'
+          from datetime import datetime
+          import re
+          import urllib.parse
+          from zoneinfo import ZoneInfo
+
+          hour = datetime.now(ZoneInfo("Asia/Colombo")).hour
+
+          if 5 <= hour < 12:
+              greeting = "Good morning! - ready to build something cool today? 🌅"
+          elif 12 <= hour < 15:
+              greeting = "Good afternoon! - hope the code's flowing well ☀️"
+          elif 15 <= hour < 19:
+              greeting = "Good evening! - thanks for checking out my work 🌆"
+          else:
+              greeting = "Burning the midnight oil too? Welcome 🌙"
+
+          encoded_greeting = urllib.parse.quote(greeting)
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          new_header = f'<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc={encoded_greeting}&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header"/>'
+
+          pattern = r"<!-- HEADER:START -->.*?<!-- HEADER:END -->"
+          replacement = f"<!-- HEADER:START -->\n{new_header}\n<!-- HEADER:END -->"
+          new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(new_readme)
+
+          print(f"✅ Updated header greeting: {greeting}")
+          EOF
+
       - name: Fetch Medium posts and update README
         run: |
           python3 << 'EOF'
@@ -24,18 +60,15 @@ jobs:
           import re
           from datetime import datetime
 
-          # Fetch RSS feed
           url = "https://medium.com/feed/@matheeshainduwara"
           req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
           with urllib.request.urlopen(req) as response:
               xml_data = response.read()
 
-          # Parse XML
           root = ET.fromstring(xml_data)
           channel = root.find("channel")
           items = channel.findall("item")[:3]
 
-          # Build clean blog post lines
           lines = []
           for item in items:
               title = item.find("title").text.strip().rstrip(".")
@@ -51,7 +84,6 @@ jobs:
 
           blog_content = "\n".join(lines)
 
-          # Update README blog section
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
@@ -75,8 +107,6 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore(readme): update blog posts + timestamp [skip ci]"
+          commit_message: "chore(readme): update greeting, blog posts & timestamp [skip ci]"
           commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
           file_pattern: README.md
-
-      
