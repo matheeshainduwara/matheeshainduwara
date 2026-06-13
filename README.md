@@ -2,7 +2,7 @@
 
 <!-- ── ANIMATED HEADER ── -->
 <!-- HEADER:START -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Burning%20the%20midnight%20oil%20too%3F%20Welcome%20%F0%9F%8C%99&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=%F0%9F%8C%99%20Burning%20the%20midnight%20oil%20too%3F%20Welcome%21&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header"/>
 <!-- HEADER:END -->
 
 <!-- ── TYPING ANIMATION ── -->
