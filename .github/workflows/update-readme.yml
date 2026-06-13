@@ -27,13 +27,13 @@ jobs:
           hour = datetime.now(ZoneInfo("Asia/Colombo")).hour
 
           if 5 <= hour < 12:
-              greeting = "Good morning! - ready to build something cool today? 🌅"
-          elif 12 <= hour < 15:
-              greeting = "Good afternoon! - hope the code's flowing well ☀️"
-          elif 15 <= hour < 19:
-              greeting = "Good evening! - thanks for checking out my work 🌆"
+              greeting = "🌅 Good morning! - ready to build something cool today?"
+          elif 12 <= hour < 17:
+              greeting = "☀️ Good afternoon! - hope the code's flowing well"
+          elif 17 <= hour < 21:
+              greeting = "🌆 Good evening! - thanks for checking out my work"
           else:
-              greeting = "Burning the midnight oil too? Welcome 🌙"
+              greeting = "🌙 Burning the midnight oil too? Welcome!"
 
           encoded_greeting = urllib.parse.quote(greeting)
 
