@@ -2,7 +2,7 @@ name: 🔄 Auto-Update Profile README
 
 on:
   schedule:
-    - cron: "0 * * * *"   # every hour (for greeting updates)
+    - cron: "0 * * * *"
   push:
     branches:
       - main
@@ -26,21 +26,30 @@ jobs:
 
           hour = datetime.now(ZoneInfo("Asia/Colombo")).hour
 
+          print(f"🕐 Current Sri Lanka hour: {hour}")
+
           if 5 <= hour < 12:
               greeting = "🌅 Good morning! - ready to build something cool today?"
+              cache_token = "morning"
           elif 12 <= hour < 17:
               greeting = "☀️ Good afternoon! - hope the code's flowing well"
+              cache_token = "afternoon"
           elif 17 <= hour < 21:
               greeting = "🌆 Good evening! - thanks for checking out my work"
+              cache_token = "evening"
           else:
               greeting = "🌙 Burning the midnight oil too? Welcome!"
+              cache_token = "night"
+
+          print(f"🎨 Theme: {cache_token}")
+          print(f"💬 Greeting: {greeting}")
 
           encoded_greeting = urllib.parse.quote(greeting)
 
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
-          new_header = f'<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc={encoded_greeting}&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header"/>'
+          new_header = f'<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc={encoded_greeting}&descAlignY=60&descSize=16&animation=fadeIn&v={cache_token}" width="100%" alt="header"/>'
 
           pattern = r"<!-- HEADER:START -->.*?<!-- HEADER:END -->"
           replacement = f"<!-- HEADER:START -->\n{new_header}\n<!-- HEADER:END -->"
@@ -49,7 +58,7 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(new_readme)
 
-          print(f"✅ Updated header greeting: {greeting}")
+          print(f"✅ README header updated!")
           EOF
 
       - name: Fetch Medium posts and update README
@@ -95,7 +104,6 @@ jobs:
               f.write(new_readme)
 
           print("✅ Blog posts updated!")
-          print(blog_content)
           EOF
 
       - name: Update timestamp badge
