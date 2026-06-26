@@ -47,20 +47,15 @@ const me = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheeshainduwara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheeshainduwara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshainduwara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-</p>
-
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=matheeshainduwara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117) 
+![Streak](https://streak-stats.demolab.com?user=matheeshainduwara&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshainduwara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)  
 
 ---
+
+</div>
 
 ## 📈 Contribution Graph
 
