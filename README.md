@@ -6,7 +6,7 @@
 <!-- HEADER:END -->
 
 <!-- ── TYPING ANIMATION ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computing+and+Information+Systems+🎓;Building+things+that+matter+💻;Open+source+contributor+🌱;Always+learning%2C+always+shipping+🚀;Coffee+%2B+Code+%3D+Magic+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computing+and+Information+Systems+🎓;Building+things+that+matter+💻;Open+source+contributor+🌱;Always+learning%2C+always+shipping+🚀;Coffee+%2B+Code+%3D+Magic+☕)](https://git.io/typing-svg)
 
 <br/>
 
