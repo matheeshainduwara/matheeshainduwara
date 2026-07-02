@@ -2,13 +2,17 @@
 
 <!-- ── ANIMATED HEADER ── -->
 <!-- HEADER:START -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=32&fontFamily=Orbitron&desc=%E2%98%80%EF%B8%8F%20Good%20afternoon%21%20-%20hope%20the%20code%27s%20flowing%20well&descAlignY=55&descSize=17&descColor=ffffff&animation=fadeIn&v=afternoon" width="100%" alt="header"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=70&lines=Hey%2C+I'm+Matheesha+%F0%9F%91%8B" alt="name"/>
+</div>
 <!-- HEADER:END -->
 
-<!-- ── TYPING ANIMATION ── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Computing+and+Information+Systems+🎓;Building+things+that+matter+💻;Open+source+contributor+🌱;Always+learning%2C+always+shipping+🚀;Coffee+%2B+Code+%3D+Magic+☕)](https://git.io/typing-svg)
+<!-- GREETING:START -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=0&pause=99999&color=A78BFA&center=true&vCenter=true&width=435&height=45&lines=Good+Evening+%E2%80%94+thanks+for+checking+out+my+work+%F0%9F%8C%86" alt="greeting"/>
+</div>
+<!-- GREETING:END -->
 
-<br/>
 
 <!-- ── PROFILE VIEWS + FOLLOWERS ── -->
 ![GitHub followers](https://img.shields.io/github/followers/matheeshainduwara?style=flat&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
