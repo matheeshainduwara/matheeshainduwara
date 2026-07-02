@@ -58,7 +58,7 @@ jobs:
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
-          new_greeting = f'<div align="center">\n<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=0&pause=99999&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines={encoded_greeting}&v={cache_token}" alt="greeting"/>\n</div>'
+          new_greeting = f'<div align="center">\n\n![greeting](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines={encoded_greeting}&v={cache_token})\n\n</div>'
 
           greeting_pattern = r"<!-- GREETING:START -->.*?<!-- GREETING:END -->"
           greeting_replacement = f"<!-- GREETING:START -->\n{new_greeting}\n<!-- GREETING:END -->"
