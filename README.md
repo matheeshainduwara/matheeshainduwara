@@ -1,24 +1,27 @@
-<div align="center">
+<div align="left">
 
-<!-- ── ANIMATED HEADER ── -->
 <!-- HEADER:START -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=70&lines=Hey%2C+I'm+Matheesha+%F0%9F%91%8B" alt="name"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&height=50&lines=Hey%2C+I'm+Matheesha+%F0%9F%91%8B" alt="name"/>
 </div>
 <!-- HEADER:END -->
 
 <!-- GREETING:START -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=0&pause=99999&color=A78BFA&center=true&vCenter=true&width=435&height=45&lines=Good+afternoon%21+%E2%80%94+hope+the+code%27s+flowing+well+%E2%98%80%EF%B8%8F&v=afternoon" alt="greeting"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&pause=99999&color=38BDF8&center=true&vCenter=true&width=460&height=45&lines=Good+Evening+%E2%80%94+thanks+for+checking+out+my+work+%F0%9F%8C%86" alt="greeting"/>
 </div>
 <!-- GREETING:END -->
 
 
 <!-- ── PROFILE VIEWS + FOLLOWERS ── -->
-![GitHub followers](https://img.shields.io/github/followers/matheeshainduwara?style=flat&color=7c3aed&labelColor=0d1117&label=FOLLOWERS)
-![Profile Views](https://komarev.com/ghpvc/?username=matheeshainduwara&style=flat&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS)
-![GitHub User's stars](https://img.shields.io/github/stars/matheeshainduwara?style=flat&color=7c3aed&labelColor=0d1117&label=TOTAL+STARS)
+<div align="center">
+  
+![GitHub followers](https://img.shields.io/github/followers/matheeshainduwara?style=flat&color=0ea5e9&labelColor=0d1117&label=FOLLOWERS)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/matheeshainduwara&query=public_repos&style=flat&color=0ea5e9&labelColor=0d1117&label=PUBLIC+REPOS)
+![GitHub stars](https://img.shields.io/github/stars/matheeshainduwara?style=flat&color=0ea5e9&labelColor=0d1117&label=TOTAL+STARS)
+
 </div>
+
 
 ---
 
@@ -57,15 +60,17 @@ const me = {
 ![Streak](https://streak-stats.demolab.com?user=matheeshainduwara&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheeshainduwara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)  
 
+</div>
+
 ---
 
-</div>
+
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheeshainduwara&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matheeshainduwara&bg_color=0d1117&color=38BDF8&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -80,34 +85,12 @@ const me = {
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/matheeshainduwara/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://matheesha.vercel.app/">
-  <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Portfolio"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:matheesha000@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/>
-</a>
-
-</div>
-
----
-
 <!-- ── ANIMATED FOOTER ── -->
 <div align="center">
 
 *⭐ If you find my work useful, consider starring some repos — it keeps me going!*
 
 <!-- AUTO-UPDATED TIMESTAMP — see .github/workflows/update-readme.yml -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-July%2002,%202026-7c3aed?style=flat-square&labelColor=0d1117)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+![Last Updated](https://img.shields.io/badge/Last%20Updated-July%2002,%202026-0ea5e9?style=flat-square&labelColor=0d1117)
 
 </div>
