@@ -30,36 +30,35 @@ jobs:
           python3 << 'EOF'
           from datetime import datetime
           import re
-          import urllib.parse
           from zoneinfo import ZoneInfo
 
           hour = datetime.now(ZoneInfo("Asia/Colombo")).hour
 
-          print(f"🕐 Current Sri Lanka hour: {hour}")
+          print(f"Current Sri Lanka hour: {hour}")
 
           if 5 <= hour < 12:
-              greeting = "Good morning! — ready to build something cool today? 🌅"
+              greeting = "Good morning! - ready to build something cool today"
               cache_token = "morning"
-          elif 12 <= hour < 17:
-              greeting = "Good afternoon! — hope the code's flowing well ☀️"
+          elif 12 <= hour < 16:
+              greeting = "Good afternoon! - hope the code is flowing well"
               cache_token = "afternoon"
-          elif 17 <= hour < 21:
-              greeting = "Good evening! — thanks for checking out my work 🌆"
+          elif 16 <= hour < 21:
+              greeting = "Good evening! - thanks for checking out my work"
               cache_token = "evening"
           else:
-              greeting = "Burning the midnight oil too? Welcome! 🌙"
+              greeting = "Burning the midnight oil too - welcome!"
               cache_token = "night"
 
-          print(f"🎨 Theme: {cache_token}")
-          print(f"💬 Greeting: {greeting}")
+          print(f"Theme: {cache_token}")
+          print(f"Greeting: {greeting}")
 
-          encoded_greeting = urllib.parse.quote(greeting, safe='').replace('%20', '+')
+          # Only replace spaces with + no other encoding
+          encoded_greeting = greeting.replace(" ", "+")
 
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
-          # Update greeting — static text, no typewriter effect
-          new_greeting = f'<div align="center">\n<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=16&duration=0&pause=99999&color=A78BFA&center=true&vCenter=true&width=435&height=45&lines={encoded_greeting}&v={cache_token}" alt="greeting"/>\n</div>'
+          new_greeting = f'<div align="center">\n<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=0&pause=99999&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines={encoded_greeting}&v={cache_token}" alt="greeting"/>\n</div>'
 
           greeting_pattern = r"<!-- GREETING:START -->.*?<!-- GREETING:END -->"
           greeting_replacement = f"<!-- GREETING:START -->\n{new_greeting}\n<!-- GREETING:END -->"
@@ -68,7 +67,7 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(new_readme)
 
-          print(f"✅ Greeting updated!")
+          print("Greeting updated!")
           EOF
 
       - name: Fetch Medium posts and update README
@@ -113,14 +112,14 @@ jobs:
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(new_readme)
 
-          print("✅ Blog posts updated!")
+          print("Blog posts updated!")
           EOF
 
       - name: Update timestamp badge
         run: |
           DATE=$(date +'%B %d, %Y' | sed 's/ /%20/g')
           sed -i "s|Last%20Updated-[^-]*-|Last%20Updated-${DATE}-|g" README.md
-          echo "✅ Timestamp updated!"
+          echo "Timestamp updated!"
 
       - name: Commit and push changes
         run: |
