@@ -8,7 +8,7 @@
 
 <!-- GREETING:START -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=18&duration=0&pause=99999&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Good+evening+-+thanks+for+checking+out+my+work&v=evening" alt="greeting"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=0&pause=99999&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Good+afternoon!+-+hope+the+code+is+flowing+well&v=afternoon" alt="greeting"/>
 </div>
 <!-- GREETING:END -->
 
