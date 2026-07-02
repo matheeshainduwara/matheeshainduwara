@@ -58,7 +58,7 @@ jobs:
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
  
-          new_header = f'<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=35&desc={encoded_greeting}&descAlignY=60&descSize=16&animation=fadeIn&v={cache_token}" width="100%" alt="header"/>'
+          new_header = f'<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Hey,%20I%27m%20Matheesha%20👋&fontSize=36&fontColor=ffffff&fontAlignY=32&fontFamily=Orbitron&desc={encoded_greeting}&descAlignY=55&descSize=17&descColor=ffffff&animation=fadeIn&v={cache_token}" width="100%" alt="header"/>'
  
           pattern = r"<!-- HEADER:START -->.*?<!-- HEADER:END -->"
           replacement = f"<!-- HEADER:START -->\n{new_header}\n<!-- HEADER:END -->"
