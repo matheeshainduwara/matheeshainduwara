@@ -9,7 +9,7 @@
 <!-- GREETING:START -->
 <div align="center">
 
-![greeting](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Burning+the+midnight+oil+too+-+welcome!&v=night)
+![greeting](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Good+afternoon!+-+hope+the+code+is+flowing+well&v=afternoon)
 
 </div>
 <!-- GREETING:END -->
@@ -93,6 +93,6 @@ const me = {
 *⭐ If you find my work useful, consider starring some repos — it keeps me going!*
 
 <!-- AUTO-UPDATED TIMESTAMP — see .github/workflows/update-readme.yml -->
-![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2026,%202026-0ea5e9?style=flat-square&labelColor=0d1117)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2027,%202026-0ea5e9?style=flat-square&labelColor=0d1117)
 
 </div>
