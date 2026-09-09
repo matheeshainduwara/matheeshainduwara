@@ -80,9 +80,9 @@ const me = {
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- 📝 **[AlertZone: A Digital Platform for Community Safety & Non-Emergency Infrastructure Issue Reporting](https://medium.com/@matheeshainduwara/alertzone-a-digital-platform-for-community-safety-non-emergency-infrastructure-issue-reporting-b5b5fba4f0c3)** — `Sep 09, 2026`
 - 📝 **[Agentic AI Explained: How It Works, Features, Benefits, and Examples](https://medium.com/@matheeshainduwara/agentic-ai-explained-how-it-works-features-benefits-and-examples-b756080c5966)** — `Apr 10, 2026`
 - 📝 **[The Future of Programming: Why Developers Must Learn Multiple Languages](https://medium.com/@matheeshainduwara/the-future-of-programming-why-developers-must-learn-multiple-languages-bd59f9aa8361)** — `Jan 20, 2026`
-- 📝 **[Hybrid Intelligence: The Future World Where Humans and AI Think Together](https://medium.com/@matheeshainduwara/hybrid-intelligence-the-future-world-where-humans-and-ai-think-together-4111da765d35)** — `Dec 19, 2025`
 <!-- BLOG-POST-LIST:END -->
 
 ---
