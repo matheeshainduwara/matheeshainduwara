@@ -9,7 +9,7 @@
 <!-- GREETING:START -->
 <div align="center">
 
-![greeting](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Burning+the+midnight+oil+too+-+welcome!&v=night)
+![greeting](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Good+morning!+-+ready+to+build+something+cool+today&v=morning)
 
 </div>
 <!-- GREETING:END -->
