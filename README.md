@@ -9,7 +9,7 @@
 <!-- GREETING:START -->
 <div align="center">
 
-![greeting](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Good+afternoon!+-+hope+the+code+is+flowing+well&v=afternoon)
+![greeting](https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=1&pause=100000&color=38BDF8&center=true&vCenter=true&width=600&height=45&lines=Good+evening!+-+thanks+for+checking+out+my+work&v=evening)
 
 </div>
 <!-- GREETING:END -->
